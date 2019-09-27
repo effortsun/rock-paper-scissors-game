@@ -1,7 +1,6 @@
 > VueJS를 이용한 가위바위보 게임
 
-![exampleImage]("Images/exampleImage.png")
-
+![exampleImage](/Images/exampleImage.png)
 1. 사용자는 가위, 바위, 보 중 하나를 선택한다.
 2. 3초의 카운트가 시작되고, 카운트가 0이 되었을 때 컴퓨터의 선택사항(가위,바위,보)가 결정된다.
 3. 승패 여부에 의해 생명(하트)가 빛바랜 하트로 변하게 된다.
